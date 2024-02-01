@@ -1,0 +1,200 @@
+Tertunda
+Keterlambatan
+Terlambat
+Molor
+Pembatalan
+Kacau
+Kesalahan
+Kecelakaan
+Tersesat
+Kecelakaan
+Tidak Nyaman
+Tidak Rapi
+Kotor
+Ketinggalan
+Kebisingan
+Bising
+Tidak Terjadwal
+Kebocoran
+Kurang Informatif
+Kebocoran Atap
+Kerusakan
+Rusak
+Perbaikan Terlalu Lama
+Fasilitas Buruk
+Kesiangan
+Overbooked
+Penuh Sesak
+Ramai
+Ketinggian Harga
+Tidak Ramah Anak
+Tidak Aman
+Kurang Aman
+Kurang Bersih
+Pengaturan Buruk
+Kehilangan Barang
+Pembatasan Ruang
+Kebocoran Toilet
+AC Tidak Berfungsi
+Suhu Tidak Nyaman
+Pelayanan Kurang Profesional
+Pelayan Kurang Ramah
+Layanan Tidak Responsif
+Kru Kurang Ramah
+Tidak Ramah Penyandang Disabilitas
+Kurang Informasi Pengumuman
+Pelayanan Buruk
+Kurang Perhatian
+Komunikasi Tidak Efektif
+Kurang Efisien
+Pembayaran Tidak Lancar
+Kursi Tidak Nyaman
+Terlalu Dingin
+Terlalu Panas
+Toilet Kotor
+Pelayanan Makanan Buruk
+Makanan Mahal
+Minuman Mahal
+Kereta Kotor
+Overcrowded
+Kelalaian
+Sinyal Tidak Stabil
+Pembayaran Tambahan
+Kekurangan Tempat Duduk
+Penumpang Bermasalah
+Tidak Bersih
+Tidak Aman untuk Anak-anak
+Stasiun Kotor
+Stasiun Ramai
+Stasiun Kurang Aman
+Tidak Ada Kursi Tersedia
+Kebocoran Air
+Tidak Dapat Diandalkan
+Peralatan Rusak
+Penanganan Barang Buruk
+Barang Rusak
+Tidak Dapat Dihubungi
+Kurang Penjelasan
+Pelayanan Internet Buruk
+AC Tidak Dihidupkan
+Layanan Tidak Diketahui
+Tidak Ramah Lingkungan
+Informasi Salah
+Tidak Ramah Hewan Peliharaan
+Tidak Sesuai Jadwal
+Pembayaran Ganda
+Kursi Tidak Aman
+Terlalu Panas di dalam Kereta
+Terlalu Dingin di dalam Kereta
+Terlalu Banyak Perhentian
+Tidak Ada Toilet
+Tidak Ada Tempat Sampah
+Layanan Kurang Pemeliharaan
+Tidak Ada Pemberitahuan Keterlambatan
+AC Terlalu Dingin
+AC Terlalu Panas
+Pelayanan Bagasi Tidak Baik
+Tidak Ada Tempat Duduk untuk Lansia
+Tidak Ada Pelayanan Pemandu
+Kurang Tanda Arah
+Tidak Dapat Ditemui Petugas
+Kursi Penuh Debu
+Pelayanan Kurang Fleksibel
+Pembayaran Lambat Diproses
+Tempat Duduk Kotor
+Layanan Katering Buruk
+Keterbatasan Ruang Bagasi
+Terlalu Lama Perjalanan
+Kurang Nyaman untuk Bayi
+Tidak Ada Tempat Istirahat
+Pemandu Kurang Ramah
+Tidak Ada Pelayanan Pemadam Kebakaran
+Pelayanan Medis Kurang Baik
+Terlalu Banyak Guncangan
+AC Berisik
+Terlalu Banyak Kursi Berderit
+Kursi Terlalu Keras
+Kursi Terlalu Lunak
+Tidak Ada Tempat Parkir
+Tidak Ada Tempat Duduk untuk Hamil
+Kurang Tanda Peringatan
+Pembayaran Tidak Lancar
+Tidak Ada Tempat Duduk untuk Disabilitas
+Kursi Terlalu Sempit
+Terlalu Banyak Tiket Tersedia
+Kursi Tidak Dapat Diatur
+Pembayaran Tambahan Tidak Jelas
+Tidak Ada Tempat Duduk untuk Ibu Menyusui
+Tidak Ada Layanan Pengumuman
+Pembayaran Tidak Diterima
+AC Tidak Dapat Dimatikan
+Terlalu Banyak Bagasi
+Pembayaran Gagal
+Kursi Terlalu Tinggi
+Kursi Terlalu Rendah
+Kurang Pemeliharaan Toilet
+Toilet Tidak Bekerja
+Tidak Ada Tempat Duduk untuk Anjing
+Pembayaran Tidak Terbaca
+Terlalu Banyak Antrian
+Terlalu Banyak Tindakan Pencegahan
+Pembayaran Tidak Jelas
+Kurang Kursi untuk Kelompok
+Tidak Ada Tempat Duduk untuk Kelompok
+AC Tidak Mendinginkan
+Tidak Ada Tempat Duduk untuk Pelajar
+Pelayanan Bagasi Lambat
+Pelayanan Terlalu Cepat
+Kursi Terlalu Terasa
+Kursi Terlalu Sulit
+Terlalu Banyak Kursi Kosong
+Kursi Terlalu Lebar
+Kursi Terlalu Sempit
+Kursi Terlalu Berat
+Kurang Kursi untuk Lansia
+Tidak Ada Tempat Duduk untuk Remaja
+Tidak Ada Tempat Duduk untuk Dewasa Muda
+Terlalu Banyak Bising
+Terlalu Banyak Pengumuman
+Pembayaran Tidak Lengkap
+Terlalu Banyak Tiket Terpakai
+Terlalu Banyak Tiket Tidak Terpakai
+Kursi Tidak Murni
+Terlalu Banyak Pelayan
+Terlalu Sedikit Pelayan
+Terlalu Banyak Penumpang
+Terlalu Sedikit Penumpang
+Terlalu Banyak Petugas
+Terlalu Sedikit Petugas
+Pembayaran Tidak Dapat Diproses
+Tidak Ada Tempat Duduk untuk Pelanggan Setia
+Terlalu Banyak Penanganan Barang
+Terlalu Banyak Barang Bawaan
+Kursi Terlalu Licin
+Kursi Terlalu Kasar
+Terlalu Banyak Pembayaran
+Terlalu Banyak Anak Kecil
+Tidak Ada Tempat Duduk untuk Balita
+Tidak Ada Tempat Duduk untuk Bayi
+Kursi Terlalu Licin
+Kursi Terlalu Kasar
+Pembayaran Tidak Dapat Diterima
+Tidak Ada Tempat Duduk untuk Penggemar Olahraga
+Terlalu Banyak Pembayaran Tambahan
+Tidak Ada Tempat Duduk untuk Pekerja Kesehatan
+Tidak Ada Tempat Duduk untuk Petugas Keamanan
+Tidak Ada Tempat Duduk untuk Petugas Medis
+Tidak Ada Tempat Duduk untuk Petugas Darurat
+Pembayaran Tidak Jelas
+Kursi Terlalu Padat
+Kursi Terlalu Longgar
+Tidak Ada Tempat Duduk untuk Petugas Kesehatan
+Tidak Ada Tempat Duduk untuk Petugas Pemadam Kebakaran
+Tidak Ada Tempat Duduk untuk Petugas Polisi
+Tidak Ada Tempat Duduk untuk Petugas Militer
+Tidak Ada Tempat Duduk untuk Petugas Keamanan
+Tidak Ada Tempat Duduk untuk Petugas Medis Darurat
+Pembayaran Tidak Dapat Dilakukan
+Pembayaran Tidak Sesuai
+Pembayaran Tidak Diterima
+Pembayaran Tidak Tercatat
